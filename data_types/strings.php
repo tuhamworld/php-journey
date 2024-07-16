@@ -27,6 +27,11 @@ echo substr($d, 4, -4);
 $word = "Good Timber does not grow with \"Ease\"  the stronger, the stronger the trees";
 echo $word;
 
+// Escape variables
+$today = "Tuesday, 16th of July, 2024";
+echo "\$today <br/>";
+echo "$today";
+
 ?>
 
 
