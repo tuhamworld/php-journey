@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Handling</title>
+</head>
+<body>
+    
+    <!--  Using POST -->
+      <p>
+
+          <form action="welcome.php" method="post">
+              Email Address: <input type="email" name="email" id=""> <br>
+              First Name: <input type="text" name="fname" id=""><br>
+              <input type="submit" value="Submit">
+              
+            </form>
+        </p>
+
+        <!-- Using GET -->
+
+        <p>
+            <form action="welcome_social.php" method="get">
+
+                First Name: <input type="text" name="fname"><br>
+                Social Media: <input type="text" name="social"><br>
+                <input type="submit" value="Send">
+            </form>
+        </p>
+</body>
+</html>
