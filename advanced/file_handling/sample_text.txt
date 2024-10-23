@@ -1,0 +1,7 @@
+Acronyms and their meaning
+
+WWW = World Wide Web
+WP = WordPress
+PHP = PHP HyperText Preprocessor
+JS = JavaScript
+HTML = HyperText Markup Language
