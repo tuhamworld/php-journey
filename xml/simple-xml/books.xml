@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bookstore>
+  <book category="PRODUCTIVITY">
+    <title lang="en">Atomic Habits</title>
+    <author>James Clear</author>
+    <year>2018</year>
+    <price>14.85</price>
+  </book>
+  <book category="ISLAM">
+    <title lang="en">Seerah</title>
+    <author>Zad Academy</author>
+    <year>2023</year>
+    <price>0.00</price>
+  </book>
+  <book category="WEB">
+    <title lang="en-us">Atomic Design</title>
+    <author>Brad Frost</author>
+    <year>2016</year>
+    <price>10.00</price>
+  </book>
+  <book category="WEB">
+    <title lang="en-us">Learning XML</title>
+    <author>Erik T. Ray</author>
+    <year>2003</year>
+    <price>39.95</price>
+  </book>
+</bookstore>
