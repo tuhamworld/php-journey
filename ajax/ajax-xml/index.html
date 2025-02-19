@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Country Info</title>
+</head>
+<body>
+    <form>
+        Select a Country:
+        <select name="country" onchange="showCountry(this.value)">
+            <option value="">Select a Country:</option>
+            <option value="Nigeria">Nigeria</option>
+            <option value="Saudi Arabia">Saudi Arabia</option>
+            <option value="United Arab Emirates">United Arab Emirates</option>
+        </select>
+    </form>
+
+    <div id="txtHint"><strong>Country info will be listed here...</strong></div>
+
+    <script src="./script.js"></script>
+</body>
+</html>
